@@ -200,4 +200,4 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 
 ## Contact
-Project Link: [https://github.com/hosealeonardo18/izipizy-FE](https://github.com/RezaldhoArmadhani/izipizy-FE)
+Project Link: [https://github.com/RezaldhoArmadhani/izipizy-FE](https://github.com/RezaldhoArmadhani/izipizy-FE)
