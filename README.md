@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Izipizy Food recipe</h3>
   <p align="center">
-    <a href="https://github.com/hosealeonardo18/izipizy-FE"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RezaldhoArmadhani/izipizy-FE"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://mama-recipe-izipizy.vercel.app/">View Demo</a>
     ·
@@ -59,7 +59,7 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-git clone https://github.com/hosealeonardo18/izipizy-FE
+git clone https://github.com/RezaldhoArmadhani/izipizy-FE
 ```
 
 - Go To Folder Repo
@@ -143,9 +143,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Izipizy Food recipe`](https://github.com/hosealeonardo18/izipizy_backend)
+:rocket: [`Backend Izipizy Food recipe`](https://github.com/RezaldhoArmadhani/izipizy_backend)
 
-:rocket: [`Frontend Izipizy Food recipe`](https://github.com/hosealeonardo18/izipizy-FE)
+:rocket: [`Frontend Izipizy Food recipe`](https://github.com/RezaldhoArmadhani/izipizy-FE)
 
 :rocket: [`Demo Izipizy Food recipe`](https://mama-recipe-izipizy.vercel.app/)
 
@@ -200,4 +200,4 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 
 ## Contact
-Project Link: [https://github.com/hosealeonardo18/izipizy-FE](https://github.com/hosealeonardo18/izipizy-FE)
+Project Link: [https://github.com/hosealeonardo18/izipizy-FE](https://github.com/RezaldhoArmadhani/izipizy-FE)
